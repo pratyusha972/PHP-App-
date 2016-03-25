@@ -1,0 +1,62 @@
+{"cnt":16,
+"list":[
+	{"coord":{
+		"lon":-91.69,
+		"lat":41.3},
+	"sys":{
+		"type":1,
+		"id":903,
+		"message":0.0335,
+		"country":"US",
+		"sunrise":1449926610,
+		"sunset":1449959871},
+	"weather":[{
+		"id":741,
+		"main":"Fog",
+		"description":"fog",
+		"icon":"50n"}],
+	"main":{
+		"temp":7.98,
+		"pressure":1010,
+		"humidity":100,
+		"temp_min":5,
+		"temp_max":10},
+	"wind":{
+		"speed":3.87,
+		"deg":180.5},
+	"clouds":{
+		"all":90},
+
+	"dt":1449916500,
+	"id":4880731,
+	"name":"Washington"},
+	{"coord":
+		{
+		"lon":-84.04,
+		"lat":42.15},
+	"sys":{
+		"type":1,
+		"id":1422,
+		"message":0.0336,
+		"country":"US",
+		"sunrise":1449924936,
+		"sunset":1449957870},
+	"weather":[{
+		"id":721,
+		"main":"Haze",
+		"description":"haze",
+		"icon":"50n"},
+		{"id":500,
+			"main":"Rain",
+			"description":"light rain",
+			"icon":"10n"},
+		{"id":701,
+			"main":"Mist",
+			"description":"mist",
+			"icon":"50n"}],
+	"main":{
+		"temp":9.51,
+		"pressure":1012,
+		"humidity":81,
+		"temp_min":8,
+			"temp_max":11},"visibility":9656,"wind":{"speed":2.1,"deg":130},"clouds":{"all":90},"dt":1449916680,"id":5000598,"name":"Manchester"},{"coord":{"lon":-74.01,"lat":40.71},"sys":{"type":1,"id":1972,"message":0.0497,"country":"US","sunrise":1449922254,"sunset":1449955735},"weather":[{"id":701,"main":"Mist","description":"mist","icon":"50n"},{"id":721,"main":"Haze","description":"haze","icon":"50n"},{"id":741,"main":"Fog","description":"fog","icon":"50n"}],"main":{"temp":8.77,"pressure":1019,"humidity":93,"temp_min":4,"temp_max":14},"visibility":6437,"wind":{"speed":1.12,"deg":237.5},"clouds":{"all":1},"dt":1449916500,"id":5128581,"name":"New York"},{"coord":{"lon":-118.24,"lat":34.05},"sys":{"type":1,"id":396,"message":0.0172,"country":"US","sunrise":1449931762,"sunset":1449967468},"weather":[{"id":800,"main":"Clear","description":"sky is clear","icon":"01n"}],"main":{"temp":9.15,"pressure":1012,"humidity":35,"temp_min":2,"temp_max":14},"wind":{"speed":5.1,"deg":310,"gust":8.7},"clouds":{"all":1},"dt":1449916560,"id":5368361,"name":"Los Angeles"},{"coord":{"lon":-87.65,"lat":41.85},"sys":{"type":1,"id":962,"message":0.0115,"country":"US","sunrise":1449925745,"sunset":1449958795},"weather":[{"id":701,"main":"Mist","description":"mist","icon":"50n"}],"main":{"temp":12.03,"pressure":1010,"humidity":93,"temp_min":8,"temp_max":15},"wind":{"speed":1.5,"deg":360},"clouds":{"all":90},"dt":1449916500,"id":4887398,"name":"Chicago"},{"coord":{"lon":-117.16,"lat":32.72},"sys":{"type":1,"id":476,"message":0.0637,"country":"US","sunrise":1449931302,"sunset":1449967407},"weather":[{"id":800,"main":"Clear","description":"Sky is Clear","icon":"01n"}],"main":{"temp":8.61,"pressure":1013,"humidity":100,"temp_min":4,"temp_max":12},"wind":{"speed":1.22,"deg":326.5},"clouds":{"all":0},"dt":1449916500,"id":5391811,"name":"San Diego"},{"coord":{"lon":-71.06,"lat":42.36},"sys":{"type":1,"id":1801,"message":0.013,"country":"US","sunrise":1449921860,"sunset":1449954714},"weather":[{"id":701,"main":"Mist","description":"mist","icon":"50n"}],"main":{"temp":7.19,"pressure":1022,"humidity":100,"temp_min":1,"temp_max":13},"wind":{"speed":1.5,"deg":230},"clouds":{"all":1},"dt":1449916920,"id":4930956,"name":"Boston"},{"coord":{"lon":72.85,"lat":19.01},"sys":{"message":0.0345,"country":"IN","sunrise":1449883928,"sunset":1449923548},"weather":[{"id":800,"main":"Clear","description":"Sky is Clear","icon":"01d"}],"main":{"temp":27.22,"temp_min":27.224,"temp_max":27.224,"pressure":1021.52,"sea_level":1022.53,"grnd_level":1021.52,"humidity":91},"wind":{"speed":6.27,"deg":347},"clouds":{"all":0},"dt":1449917528,"id":1275339,"name":"Mumbai"},{"coord":{"lon":77.22,"lat":28.67},"sys":{"type":1,"id":7809,"message":0.0088,"country":"IN","sunrise":1449884064,"sunset":1449921315},"weather":[{"id":701,"main":"Mist","description":"mist","icon":"50d"}],"main":{"temp":15,"pressure":1013,"humidity":87,"temp_min":15,"temp_max":15},"wind":{"speed":4.1,"deg":290},"clouds":{"all":75},"dt":1449914400,"id":1273294,"name":"Delhi"},{"coord":{"lon":88.37,"lat":22.57},"sys":{"type":1,"id":7784,"message":0.0097,"country":"IN","sunrise":1449880616,"sunset":1449919407},"weather":[{"id":721,"main":"Haze","description":"haze","icon":"50d"}],"main":{"temp":29,"pressure":1008,"humidity":62,"temp_min":29,"temp_max":29},"wind":{"speed":4.6,"deg":170},"clouds":{"all":40},"dt":1449914400,"id":1275004,"name":"Kolkata"},{"coord":{"lon":80.28,"lat":13.09},"sys":{"type":1,"id":7834,"message":0.0326,"country":"IN","sunrise":1449881490,"sunset":1449922419},"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],"main":{"temp":31,"pressure":1008,"humidity":66,"temp_min":31,"temp_max":31},"visibility":8000,"wind":{"speed":2.1,"deg":90},"clouds":{"all":40},"dt":1449914400,"id":1264527,"name":"Chennai"},{"coord":{"lon":37.62,"lat":55.75},"sys":{"type":1,"id":7323,"message":0.0036,"country":"RU","sunrise":1449899406,"sunset":1449924987},"weather":[{"id":621,"main":"Snow","description":"shower snow","icon":"13d"}],"main":{"temp":-1.5,"pressure":1006,"humidity":92,"temp_min":-2,"temp_max":-1},"wind":{"speed":5,"deg":180},"clouds":{"all":75},"dt":1449914400,"id":524901,"name":"Moscow"},{"coord":{"lon":30.52,"lat":50.43},"sys":{"type":1,"id":7358,"message":0.0034,"country":"UA","sunrise":1449899355,"sunset":1449928447},"weather":[{"id":701,"main":"Mist","description":"mist","icon":"50d"},{"id":500,"main":"Rain","description":"light rain","icon":"10d"}],"main":{"temp":1.66,"pressure":1015,"humidity":93,"temp_min":1,"temp_max":2},"wind":{"speed":6,"deg":260},"clouds":{"all":90},"dt":1449914400,"id":703448,"name":"Kiev"},{"coord":{"lon":-0.13,"lat":51.51},"sys":{"type":1,"id":5093,"message":0.0061,"country":"GB","sunrise":1449907025,"sunset":1449935490},"weather":[{"id":501,"main":"Rain","description":"moderate rain","icon":"10d"}],"main":{"temp":7.87,"pressure":1019,"humidity":87,"temp_min":5,"temp_max":10},"wind":{"speed":5.7,"deg":190,"var_beg":160,"var_end":240},"clouds":{"all":75},"dt":1449915600,"id":2643743,"name":"London"},{"coord":{"lon":116.4,"lat":39.91},"sys":{"type":1,"id":7405,"message":0.0404,"country":"CN","sunrise":1449876385,"sunset":1449910181},"weather":[{"id":801,"main":"Clouds","description":"few clouds","icon":"02n"}],"main":{"temp":1,"pressure":1025,"humidity":64,"temp_min":1,"temp_max":1},"visibility":6000,"wind":{"speed":1,"deg":70},"clouds":{"all":12},"dt":1449914400,"id":1816670,"name":"Beijing"},{"coord":{"lon":55.3,"lat":25.26},"sys":{"type":1,"id":7100,"message":0.1255,"country":"AE","sunrise":1449888885,"sunset":1449927015},"weather":[{"id":800,"main":"Clear","description":"Sky is Clear","icon":"01d"}],"main":{"temp":24,"pressure":1016,"humidity":29,"temp_min":24,"temp_max":24},"visibility":10000,"wind":{"speed":5.7,"deg":30,"var_beg":350,"var_end":60},"clouds":{"all":0},"dt":1449914400,"id":292223,"name":"Dubai"}]}
